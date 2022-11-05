@@ -1,2 +1,4 @@
-# food-website
-I develop this website using HTML, CSS JavaScript.
+
+# Food Website Project's
+
+## This is simple frontend project made with HTML, CSS, SASS, & JavaScript.
